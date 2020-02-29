@@ -21,7 +21,7 @@
 | [#7](https://github.com/Syncma/learning-note/issues/7)   | 趣谈Linux操作系统笔记 | 2020-01-09 | 待完善   |
 | [#8](https://github.com/Syncma/learning-note/issues/8)   | docker学习笔记        | 2020-01-10 | 待完善   |
 | [#9](https://github.com/Syncma/learning-note/issues/9)   | Flask源码分析         | 2020-01-10 | `已完结` |
-| [#10](https://github.com/Syncma/learning-note/issues/10) | K8S学习笔记           | 2020-01-10 | 未开始   |
+| [#10](https://github.com/Syncma/learning-note/issues/10) | K8S学习笔记           | 2020-01-10 | 进行中   |
 | [#11](https://github.com/Syncma/learning-note/issues/11) | 大数据生态学习笔记    | 2020-01-12 | 进行中   |
 | [#12](https://github.com/Syncma/learning-note/issues/12) | Redis学习笔记         | 2020-01-12 | 待完善   |
 | [#13](https://github.com/Syncma/learning-note/issues/13) | MQ学习笔记            | 2020-01-12 | 待完善   |
@@ -31,5 +31,5 @@
 | [#17](https://github.com/Syncma/learning-note/issues/17) | Odoo学习              | 2020-01-14 | 进行中   |
 | [#18](https://github.com/Syncma/learning-note/issues/18) | ELK学习               | 2020-01-14 | 未开始   |
 | [#19](https://github.com/Syncma/learning-note/issues/19) | Scrapy学习            | 2020-01-14 | 未开始   |
-| [#20](https://github.com/Syncma/learning-note/issues/20) | Tornado学习           | 2020-01-14 | 未开始   |
+| [#20](https://github.com/Syncma/learning-note/issues/20) | Tornado学习           | 2020-01-14 | 进行中   |
 | [#21](https://github.com/Syncma/learning-note/issues/21) | go夜读学习笔记        | 2020-01-15 | 未开始   |
